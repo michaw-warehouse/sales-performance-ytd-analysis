@@ -64,8 +64,8 @@ Enables comparison between current performance and previous periods.
 Supports strategic decision-making with measurable KPIs.
 
 ![Dashboard Screenshot](https://github.com/michaw-warehouse/sales-performance-ytd-analysis/blob/cd9746fe7727b84a2d92c70f220f9ad862e76a27/Screenshot%202026-03-01%20160746.png)
-![Dashboard Screenshot](screenshot.png)
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](https://github.com/michaw-warehouse/sales-performance-ytd-analysis/blob/a3f0928f98f8be0cd337838a60984df48b3eb346/Screenshot%202026-03-01%20160803.png)
+![Dashboard Screenshot]()
 ![Dashboard Screenshot](screenshot.png)
 ![Dashboard Screenshot](screenshot.png)
 ![Dashboard Screenshot](screenshot.png)
