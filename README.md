@@ -1,13 +1,13 @@
-# sales-performance-ytd-analysis
+# Sales-performance-ytd-analysis
 Power BI Sales Performance Dashboard analyzing YTD revenue, units, and variance across multiple countries.
 
-# Project Overview
+## Project Overview
 
 This project presents a Sales Performance Dashboard built using Power BI to analyze revenue and unit performance across different countries.
 
 The dashboard focuses on Year-To-Date (YTD) metrics, variance analysis, and performance comparison to support business decision-making.
 
-# Tools & Techniques Used
+## Tools & Techniques Used
 
 Power BI
 
@@ -21,7 +21,7 @@ KPI Reporting
 
 Variance Analysis
 
-# Key Features
+## Key Features
 
 Total Sales and Total Units summary table
 
@@ -37,7 +37,7 @@ Country-level performance analysis (USA, Canada, Mexico)
 
 Structured matrix view for detailed breakdown
 
-# DAX Measures Implemented
+## DAX Measures Implemented
 
 YTD Total Revenue
 
@@ -53,7 +53,7 @@ Sales Count, Min, Max
 
 This project demonstrates the use of time intelligence and variance calculations for performance tracking.
 
-# Business Insights
+## Business Insights
 
 Identifies top-performing countries based on revenue.
 
