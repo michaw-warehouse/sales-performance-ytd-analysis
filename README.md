@@ -1,7 +1,7 @@
 # sales-performance-ytd-analysis
 Power BI Sales Performance Dashboard analyzing YTD revenue, units, and variance across multiple countries.
 
-#Project Overview
+# Project Overview
 
 This project presents a Sales Performance Dashboard built using Power BI to analyze revenue and unit performance across different countries.
 
@@ -63,7 +63,7 @@ Enables comparison between current performance and previous periods.
 
 Supports strategic decision-making with measurable KPIs.
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](https://github.com/michaw-warehouse/sales-performance-ytd-analysis/blob/8f9452a027d87aef9440cefc6cf6ca7346ad6800/Screenshot%202026-03-01%20160746.png)
 ![Dashboard Screenshot](screenshot.png)
 ![Dashboard Screenshot](screenshot.png)
 ![Dashboard Screenshot](screenshot.png)
