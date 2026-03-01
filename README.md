@@ -68,4 +68,4 @@ Supports strategic decision-making with measurable KPIs.
 ![Dashboard Screenshot](https://github.com/michaw-warehouse/sales-performance-ytd-analysis/blob/a31c2cfd17abf2d04bcc9f4ee44f3e9becb5e599/Screenshot%202026-03-01%20160814.png)
 ![Dashboard Screenshot](https://github.com/michaw-warehouse/sales-performance-ytd-analysis/blob/1570f16a26505e0ed8c379fa26d4bd8af45ebf12/Screenshot%202026-03-01%20160825.png)
 ![Dashboard Screenshot](https://github.com/michaw-warehouse/sales-performance-ytd-analysis/blob/9edece83e306b9cf287a9ca0bc2a37b11ce9dca2/Screenshot%202026-03-01%20160840.png)
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](https://github.com/michaw-warehouse/sales-performance-ytd-analysis/blob/4fcd9dea8a731298f4eda2f72fad9c2e30d1a3ad/Screenshot%202026-03-01%20160917.png)
